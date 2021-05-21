@@ -14,7 +14,7 @@ streamlit==0.56.0
 h5py==2.10.0
 imageio==2.8.0
 tensorboard==2.0.2
-tensorflow==2.0.3
+tensorflow==2.5.0
 tensorflow-estimator==2.0.1
 sys
 setuptools
